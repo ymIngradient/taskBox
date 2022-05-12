@@ -1,0 +1,17 @@
+info @storybook/react v6.4.18
+info 
+info => Cleaning outputDir: /var/folders/9g/c289s5mx173g3b765q7kt0lw0000gn/T/chromatic--54343-YHwaYhLep2yP
+ERR! Error: No configuration files have been found in your configDir (/Users/youmilee/taskBox2/.storybook).
+ERR! Storybook needs either a "main" or "config" file.
+ERR!     at validateConfigurationFiles (/Users/youmilee/taskBox2/node_modules/@storybook/core-common/dist/cjs/utils/validate-configuration-files.js:50:11)
+ERR!     at loadCustomPresets (/Users/youmilee/taskBox2/node_modules/@storybook/core-common/dist/cjs/utils/load-custom-presets.js:19:62)
+ERR!     at loadAllPresets (/Users/youmilee/taskBox2/node_modules/@storybook/core-common/dist/cjs/presets.js:342:131)
+ERR!     at buildStaticStandalone (/Users/youmilee/taskBox2/node_modules/@storybook/core-server/dist/cjs/build-static.js:97:48)
+ERR!     at async buildStatic (/Users/youmilee/taskBox2/node_modules/@storybook/core-server/dist/cjs/build-static.js:195:5)
+ERR!  Error: No configuration files have been found in your configDir (/Users/youmilee/taskBox2/.storybook).
+ERR! Storybook needs either a "main" or "config" file.
+ERR!     at validateConfigurationFiles (/Users/youmilee/taskBox2/node_modules/@storybook/core-common/dist/cjs/utils/validate-configuration-files.js:50:11)
+ERR!     at loadCustomPresets (/Users/youmilee/taskBox2/node_modules/@storybook/core-common/dist/cjs/utils/load-custom-presets.js:19:62)
+ERR!     at loadAllPresets (/Users/youmilee/taskBox2/node_modules/@storybook/core-common/dist/cjs/presets.js:342:131)
+ERR!     at buildStaticStandalone (/Users/youmilee/taskBox2/node_modules/@storybook/core-server/dist/cjs/build-static.js:97:48)
+ERR!     at async buildStatic (/Users/youmilee/taskBox2/node_modules/@storybook/core-server/dist/cjs/build-static.js:195:5)
